@@ -1,1 +1,4 @@
-console.log("hello world")
+const a = 89;
+const b = 90;
+
+console.log(a + b);
